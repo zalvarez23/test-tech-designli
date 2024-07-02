@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+Date: Tue, 2 Jul 2024 01:06:55 -0500
+Message-ID: <CAHfV2vGRupr-w9-eUjzqRrVekq1c2jVpmPAy-mfwq9+=4U4Yfg@mail.gmail.com>
+Subject: url
+From: Kevin Salazar <kevinsalazar30@gmail.com>
+To: Kevin Salazar <kevinsalazar30@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000566cab061c3d85a2"
+
+--000000000000566cab061c3d85a2
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+This is a test with a url JSON.
+
+https://jsonplaceholder.typicode.com/todos/1
+
+Best regards
+
+--000000000000566cab061c3d85a2
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hi,<div><br></div><div>This is a test with a url JSON.<br><br><a href="https://jsonplaceholder.typicode.com/todos/1">https://jsonplaceholder.typicode.com/todos/1</a><br><br>Best regards<br><div><br></div><div><br></div></div></div>
+
+--000000000000566cab061c3d85a2--
